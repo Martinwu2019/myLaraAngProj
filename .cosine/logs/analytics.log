@@ -1,0 +1,9 @@
+
+INFO [2024-07-15T18:36:51.624Z]: Set User: martinwu2019@163.com
+INFO [2024-07-15T18:36:51.624Z]: {"Telemetry":true}
+INFO [2024-07-15T18:37:02.587Z]: extension_initialized
+INFO [2024-07-15T18:37:02.587Z]: {"timeToInit":15944,"agent":"cosine-vscode","version":"1.1.2","package":"@cosine/analytics"}
+INFO [2024-07-15T22:03:45.661Z]: Set User: martinwu2019@163.com
+INFO [2024-07-15T22:03:45.661Z]: {"Telemetry":true}
+INFO [2024-07-15T22:03:55.266Z]: extension_initialized
+INFO [2024-07-15T22:03:55.266Z]: {"timeToInit":13057,"agent":"cosine-vscode","version":"1.1.2","package":"@cosine/analytics"}
